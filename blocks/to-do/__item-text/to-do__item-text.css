@@ -6,3 +6,7 @@
   color: #fff;
   padding-inline-end: 50px;
 }
+
+input.to-do__item-text {
+  color: #000;
+}
